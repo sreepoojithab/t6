@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"ABCD",
+			"email":"abcd@gmail.com",
+			"phone":"+91 1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"svit Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"inter",
+					"institute":"abc college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"tenth",
+					"institute":"school",
+					"data":["72%","2012-15"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"abcd",
+			"email":"abcd@gmail.com",
+			"phone":"+91 8374614212",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"svit college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"inter",
+					"institute":"inter college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"school",
+					"data":["72%","2012-15"]
+				}
+			]
+		}
+	]
+}
